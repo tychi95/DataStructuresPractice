@@ -1,4 +1,4 @@
-package linkedlists;
+package ds.linkedlists;
 
 public class NodeDriver {
 
